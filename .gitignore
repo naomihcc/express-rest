@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+node_modules/
+
+# Environments
+.env
